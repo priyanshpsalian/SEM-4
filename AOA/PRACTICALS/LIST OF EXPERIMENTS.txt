@@ -1,0 +1,15 @@
+1.	Selection Sort
+2.	Insertion Sort
+3.	Merge Sort
+4.	Quick Sort
+5.	Longest Common Subsequence (LCS)
+6.	Single Source Shortest Path (Bellman Ford)
+7.	0/1 Knapsack
+8.	Fractional Knapsack
+9.	MST – Prims
+10.	MST – Kruskal’s
+11.	N queen
+12.	Sum of subset
+13.	All pair shortest path
+14.	Rabin Karp
+15.	KMP

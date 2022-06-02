@@ -1,0 +1,10 @@
+import os
+cwd = os.getcwd()
+print("Current working directory:", cwd)
+os.mkdir("Idris")
+print(os.listdir())
+os.rmdir("Idris")
+print(os.listdir())
+print("The current Directory is :", os.getcwd())
+os.chdir('../')
+print("Changed to Directory :", os.getcwd())
